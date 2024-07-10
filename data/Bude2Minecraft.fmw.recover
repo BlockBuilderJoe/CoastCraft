@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<RECOVERY_FILE HWND="10485801" COMPUTER_NAME="framework-ubuntu" USER_NAME="joe" VERSION="">
-  <UNDO_STATE FILE="/tmp/wb_recovery_1720598809146_63898"/>
-  <FULL_INSPECTION_CACHE DIR="/tmp/wb-cache-Bude2Minecraft-bqxBOY"/>
+<RECOVERY_FILE HWND="10485800" COMPUTER_NAME="framework-ubuntu" USER_NAME="joe" VERSION="">
+  <FULL_INSPECTION_CACHE DIR="/tmp/wb-cache-Bude2Minecraft-jmxXIL"/>
 </RECOVERY_FILE>
